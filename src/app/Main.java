@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Converter App.");
-
+        System.out.println("version 1.0.");
         double kgs = 5; // Вага в кілограмах
         double pounds = convKgsToPounds(kgs);
         System.out.println("Result is " + pounds + " pounds.");
