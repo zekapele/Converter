@@ -1,0 +1,20 @@
+# Ігноруємо файли IntelliJ IDEA
+.idea/
+*.iml
+
+# Ігноруємо скомпільовані файли Java
+*.class
+*.jar
+*.war
+
+# Ігноруємо тимчасові та лог-файли
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ігноруємо вихідні директорії
+out/
+target/
+bin/
+build/
